@@ -1,0 +1,26 @@
+{
+  "name": "space-partioning-datatrees",
+  "version": "1.0.0",
+  "description": "KD tree implentation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piction/space-partioning-datatrees.git"
+  },
+  "keywords": [
+    "kd-tree",
+    "binary-tree",
+    "space-partioning",
+    "data",
+    "structure"
+  ],
+  "author": "'Jonas <'jonas87vervoort@gmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piction/space-partioning-datatrees/issues"
+  },
+  "homepage": "https://github.com/piction/space-partioning-datatrees#readme"
+}
