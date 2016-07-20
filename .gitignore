@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Typing #
+/src/typings/tsd/
+/typings/
+/tsd_typings/
+/out/
+
+
+# Dist #
+/dist
+/public/__build__/
+/src/*/__build__/
+/__build__/**
+/public/dist/
+/src/*/dist/
+/dist/**
+.webpack.json
+
+# Node Files #
+/node_modules
+/bower_components
+npm-debug.log
+
+
+# IDE #
+.idea/
+*.swp
