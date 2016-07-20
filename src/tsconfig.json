@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "target": "es5",
+        "noImplicitAny": true,
+        "preserveConstEnums": true,
+        "outFile": "index.js",
+        "sourceMap": true
+    },
+        "exclude": [
+        "node_modules",
+        "wwwroot"
+    ]
+}
