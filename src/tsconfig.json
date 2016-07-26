@@ -1,10 +1,12 @@
+
 {
     "compilerOptions": {
-        "module": "system",
+        "module": "commonjs",
         "target": "es5",
         "noImplicitAny": true,
         "preserveConstEnums": true,
-        "outFile": "index.js",
+        //"outFile": "index.js",
+        "outDir": "dist",
         "sourceMap": true
     },
         "exclude": [

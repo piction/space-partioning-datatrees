@@ -23,7 +23,7 @@ build/Release
 .webpack.json
 
 # Node Files #
-/node_modules
+/node_modules/
 /bower_components
 npm-debug.log
 
@@ -31,3 +31,4 @@ npm-debug.log
 # IDE #
 .idea/
 *.swp
+.vscode/
