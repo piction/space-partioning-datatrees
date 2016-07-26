@@ -1,6 +1,6 @@
 {
   "name": "space-partitioning-datatrees",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "KD tree implentation",
   "main": "dist/index.js",
   "scripts": {
@@ -27,6 +27,6 @@
     "ts-loader": "0.8.2",
     "typescript": "1.8.10",
     "typings": "1.3.1",
-     "d3": "4.1.1"
+    "d3": "4.1.1"
   }
 }
