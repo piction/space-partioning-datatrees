@@ -1,5 +1,5 @@
 {
-  "name": "space-partioning-datatrees",
+  "name": "space partitioning-datatrees",
   "version": "1.0.0",
   "description": "KD tree implentation",
   "main": "dist/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/piction/space-partioning-datatrees.git"
+    "url": "git+https://github.com/piction/space partitioning-datatrees.git"
   },
   "keywords": [
     "kd-tree",
@@ -20,9 +20,9 @@
   "author": "'Jonas <'jonas87vervoort@gmail.com'>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/piction/space-partioning-datatrees/issues"
+    "url": "https://github.com/piction/space partitioning-datatrees/issues"
   },
-  "homepage": "https://github.com/piction/space-partioning-datatrees#readme",
+  "homepage": "https://github.com/piction/space partitioning-datatrees#readme",
   "devDependencies": {
     "ts-loader": "0.8.2",
     "typescript": "1.8.10",
