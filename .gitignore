@@ -12,14 +12,10 @@ build/Release
 /out/
 
 
-# Dist #
-/dist
-/public/__build__/
-/src/*/__build__/
+# Build #
+public/__build__/
 /__build__/**
 /public/dist/
-/src/*/dist/
-/dist/**
 .webpack.json
 
 # Node Files #
