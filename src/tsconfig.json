@@ -6,7 +6,7 @@
         "noImplicitAny": true,
         "preserveConstEnums": true,
         //"outFile": "index.js",
-        "outDir": "dist",
+        "outDir": "../dist",
         "sourceMap": true
     },
         "exclude": [
