@@ -1,7 +1,7 @@
 {
   "name": "space-partitioning-datatrees",
   "typings": "dist/space-partitioning-datatrees.d.ts",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "KD tree implentation",
   "main": "dist/space-partitioning-datatrees.js",
   "scripts": {
