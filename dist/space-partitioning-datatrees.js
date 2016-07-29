@@ -5,4 +5,4 @@ var binaryHeap_1 = require("./binaryHeap");
 exports.BinaryHeap = binaryHeap_1.BinaryHeap;
 var kdTree_1 = require("./kdTree");
 exports.KdTree = kdTree_1.KdTree;
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=space-partitioning-datatrees.js.map
